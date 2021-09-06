@@ -1,5 +1,5 @@
 # Django Test
-
+This repository includes a freshly created django project that can be run, containerized, with docker.
 ## Installing Docker 🐳
 1. Install [Docker](https://www.docker.com/)
 1. Install [WSL2 Kernel](https://docs.microsoft.com/de-de/windows/wsl/wsl2-kernel)
